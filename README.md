@@ -23,5 +23,8 @@ Install [Puredata](https://puredata.info/downloads), and open Midterm/final.pd, 
 
 Final Project contains graphic creation, and is displayed in a immersive theatre.
 We use p5.js, Blender, Scratch to create different kind of graphics, and use Logic to write the song - He's a pirate and with some revision.
+1. Scratch : Simulate Geometry Dash
+2. Blender : Generate 3D animation
+3. p5.js : Others that syncs with the music
 
 [Link for the presentation](https://www.youtube.com/watch?v=-9j_UYSHj1E&t=140s)
